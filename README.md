@@ -71,3 +71,21 @@ further info e.g. https://freedomnode.com/blog/110/how-to-install-and-set-up-ful
 ## Communication Channel
 WWI18SEA-Webdevelopment [Telegram Group](https://t.me/joinchat/CocyExdAlhxpLcd0cqfZ6g)
 
+## Notengebung
+Die Note ergibt sich aus:
+* Ergenis der Live-Demo
+* Das Projekt funktioniert
+* Automatisierte Tests (codecept.io)
+* Kein Überflüssiger Code
+* Statische Code Checks
+* Persona Definitionen
+* Diagramme?
+* 300 daily user für eine 1+
+* Seperation of Concerns im Code
+* Effizienter Datenaustausch
+* Responsive Design -> Mobile First
+* Design
+* Authentifizierung 
+* Erreichbarkeit im Web
+
+
